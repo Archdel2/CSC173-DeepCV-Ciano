@@ -1,6 +1,6 @@
 # CSC172 Computer Vision Project Proposal
-**Student:** [Your Name], [Student ID]  
-**Date:** [Submission Date]
+**Student:** Emmanuel Fitz C. Ciano, 2022-0154  
+**Date:** December 11, 2025
 
 ## 1. Project Title 
 Cancer Nuclei Analysis with Vision Transformers
