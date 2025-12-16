@@ -1,4 +1,4 @@
-# CSC172 Computer Vision Project Proposal
+# CSC173 Deep Vision Project Proposal
 **Student:** Emmanuel Fitz C. Ciano, 2022-0154  
 **Date:** December 11, 2025
 
